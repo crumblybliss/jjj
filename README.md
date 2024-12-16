@@ -134,11 +134,7 @@
   </header>
 
   <main class="content">
-    <section class="promo">
-      <h2>🎁 Holiday Special</h2>
-      <p>Get 25% off on all Christmas cookie boxes! Use code <b>HOLIDAY25</b>.</p>
-      <button class="shop-btn">Shop Now</button>
-    </section>
+
     <section class="products">
       <h2>Our Christmas Cookies</h2>
       <div class="product-grid">
